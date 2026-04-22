@@ -15,6 +15,7 @@ A CPU-friendly content-based recommender for Made-in-Rwanda products. The system
 - NDCG@5: _(0.0808 0.0808  (expected 0.0808))_
 - Local-presence rate (top-3): _(1.0000  (expected 1.0000 = 100.0%))_
 - Curated-fallback rate : 0.0000  (expected 0.0000)
+  
 **4-minute demo video:** _(............................)_
 
 ---
