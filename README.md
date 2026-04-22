@@ -15,7 +15,7 @@ A CPU-friendly content-based recommender for Made-in-Rwanda products. The system
 - NDCG@5: _(run eval.ipynb and paste your value here)_
 - Local-presence rate (top-3): _(run eval.ipynb and paste your value here)_
 
-**4-minute demo video:** _(paste your YouTube / Drive / Loom URL here)_
+**4-minute demo video:** _(............................)_
 
 ---
 
