@@ -1,0 +1,21 @@
+sku,title,description,category,material,origin_district,price_rwf,artisan_id
+SKU001,Black Leather Handbag,Handmade black leather handbag for women,leather_goods,leather,nyamirambo,35000,A001
+SKU002,Brown Leather Wallet,Genuine brown leather bifold wallet,leather_goods,leather,kigali,18000,A001
+SKU003,Woven Sisal Basket,Traditional Rwandan woven sisal basket with lid,basketry,sisal,musanze,12000,A002
+SKU004,Beaded Necklace,Handcrafted colourful beaded necklace,jewellery,beads,huye,8000,A003
+SKU005,Leather Belt,Brown genuine leather belt with brass buckle,leather_goods,leather,nyamirambo,15000,A001
+SKU006,Agaseke Basket,Small decorative Agaseke peace basket,basketry,sisal,kigali,9000,A004
+SKU007,Wooden Serving Bowl,Hand-carved wooden serving bowl,home_decor,wood,rubavu,22000,A005
+SKU008,Silver Earrings,Handmade silver drop earrings,jewellery,silver,kicukiro,14000,A003
+SKU009,Leather Laptop Bag,Handmade leather laptop shoulder bag,leather_goods,leather,gasabo,55000,A006
+SKU010,Green Wicker Basket,Large green wicker storage basket,basketry,wicker,rwamagana,16000,A007
+SKU011,Imigongo Wall Art,Traditional Rwandan cow dung geometric art panel,home_decor,paint,kayonza,28000,A008
+SKU012,Copper Bracelet,Handmade copper wire bracelet,jewellery,copper,nyarugenge,7000,A003
+SKU013,Leather Sandals,Handcrafted open-toe leather sandals,footwear,leather,nyamirambo,24000,A001
+SKU014,Raffia Handbag,Colourful woven raffia handbag for women,bags,raffia,musanze,19000,A009
+SKU015,Wooden Picture Frame,Hand-carved wooden photo frame,home_decor,wood,rubavu,11000,A005
+SKU016,Leather Passport Holder,Slim leather passport cover wallet,leather_goods,leather,kigali,13000,A006
+SKU017,Banana Leaf Basket,Eco-friendly banana leaf woven basket,basketry,banana_leaf,huye,8500,A002
+SKU018,Turquoise Bead Bracelet,Handmade turquoise glass bead bracelet,jewellery,beads,gasabo,6000,A003
+SKU019,Leather Coin Purse,Small genuine leather coin purse,leather_goods,leather,nyamirambo,9000,A001
+SKU020,Sisal Floor Mat,Large hand-woven sisal floor mat,home_decor,sisal,rwamagana,32000,A007
