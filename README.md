@@ -12,9 +12,9 @@
 A CPU-friendly content-based recommender for Made-in-Rwanda products. The system uses TF-IDF over product metadata, cosine similarity for retrieval, a local-boost rule that prioritises Rwandan-made items, and a curated fallback when no strong local match is found.
 
 **Final metrics on the provided query set:**
-- NDCG@5: _(run eval.ipynb and paste your value here)_
-- Local-presence rate (top-3): _(run eval.ipynb and paste your value here)_
-
+- NDCG@5: _(0.0808 0.0808  (expected 0.0808))_
+- Local-presence rate (top-3): _(1.0000  (expected 1.0000 = 100.0%))_
+- Curated-fallback rate : 0.0000  (expected 0.0000)
 **4-minute demo video:** _(............................)_
 
 ---
